@@ -1,1 +1,1 @@
-www.ilustrassauros.com.br
+$ echo "ilustrassauros.com.br" > CNAME
